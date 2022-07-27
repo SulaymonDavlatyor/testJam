@@ -1,5 +1,7 @@
-Для тестов использовал данную книгу https://avidreaders.ru/book/master-i-margarita.html 
-Отмечаю этот момент , только потому что структура может отличаться и не на всем у меня работало одинаково правильно 
-Для развертывания необходимо только запустить миграции 
+fb2 and txt book reader. Parses book into a reader interface with pages, headers and transtions.
 
-Суть тестового задания - парсер fb2 и txt книг. Приводит к виду ридера со страницами, заголовками и переходами
+
+
+For tests this book was used  https://avidreaders.ru/book/master-i-margarita.html 
+You can use any book you want. 
+Just run migrations and this is ready to go .
